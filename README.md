@@ -23,6 +23,7 @@
 - 1.14 Console
 - 1.15 Çıktı Alma
 - 1.16 Proje
+- ![1](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/0955d035-9cc8-41eb-8fab-690d2cceebdc)
 
 
 # Hafta 2 Eğitim Konuları:
