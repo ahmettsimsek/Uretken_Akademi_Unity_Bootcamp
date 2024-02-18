@@ -2,10 +2,10 @@
 12 haftalık bootcamp sürecimde Unity üzerinde derinlemesine öğrenerek her hafta adına bir proje sundum.
 
 #Hafta 1 Eğitim Konuları:
--1.1 Linkedin Kullanımı
--1.2 Unity ve Visual Studio Kurulumu
--1.3 Unity Hub ve İlk Proje
--1.4 Toolbar
+- 1.1 Linkedin Kullanımı
+- 1.2 Unity ve Visual Studio Kurulumu
+- 1.3 Unity Hub ve İlk Proje
+- 1.4 Toolbar
 -1.5 Hierarcy
 -1.6 Inspector
 -1.7 Assets
