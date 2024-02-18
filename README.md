@@ -1,7 +1,7 @@
 # Uretken_Akademi_Unity_Bootcamp
 12 haftalık bootcamp sürecimde Unity üzerinde derinlemesine öğrenerek her hafta adına bir proje sundum.
 
-#Hafta 1 Eğitim Konuları:
+Hafta 1 Eğitim Konuları:
 1.1 Linkedin Kullanımı
 1.2 Unity ve Visual Studio Kurulumu
 1.3 Unity Hub ve İlk Proje
