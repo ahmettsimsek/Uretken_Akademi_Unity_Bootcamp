@@ -51,7 +51,7 @@
 - 2.22 Listeler
 - 2.23 ArrayList
 - 2.24 Proje Ödevi
-
+- ![2](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/0acdb5a7-6be3-494a-b3bc-e95d05b093d4)
 
 # Hafta 3 Eğitim Konuları:
 - 3.1 Componentlere Giriş
@@ -69,6 +69,9 @@
 - 3.13 Trail Renderer
 - 3.14 Mesh Render
 - 3.15 Proje
+- [![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // [Video Link](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/84e1699e-ec2e-4c77-b073-b279bed86139)
 
 
 # Hafta 4 Eğitim Konuları:
