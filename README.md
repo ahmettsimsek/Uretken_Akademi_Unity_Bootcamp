@@ -71,7 +71,8 @@
 - 3.15 Proje
 - [![Now in Android: 55]          // Title
 (https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")    // [Video Link](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/84e1699e-ec2e-4c77-b073-b279bed86139)
+(https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+(https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/84e1699e-ec2e-4c77-b073-b279bed86139)
 
 
 # Hafta 4 Eğitim Konuları:
