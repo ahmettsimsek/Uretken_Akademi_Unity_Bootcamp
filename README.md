@@ -149,6 +149,109 @@
 - 7.17 Proje Gönderimi
 
 
+# Hafta 8 Eğitim Konuları:
+- 8.0 Linkedin'de Paylaşım Nasıl Yapılır?
+- 8.1 Labirent Hazırlık
+- 8.2 Labirenti Ayarlama
+- 8.3 Topu Ayarlama
+- 8.4 Top Kontrol Scripti
+- 8.5 Bitişi Tespit Etmek
+- 8.6 UI Tasarımı
+- 8.7 Zaman Sayacı
+- Unity Eğitimi Aşama: 8
+- 8.9 Oyunun Bitme Senaryoları
+- 8.10 Durumu Kullanıcıya Gösterme
+- 8.11 Oyunu Yeniden Oynatma Butonu
+- 8.12 Oyunu Yayınlama
+- 8.13 itch.io
+- 8.14 Proje Gönderimi
+
+
+# Hafta 9 Eğitim Konuları:
+- 9.1 Ortam Hazırlık
+- 9.2 AudioSource ve AudioListener
+- 9.3 Player
+- 9.4 Karakterin Sağa Sola Dönmesi
+- 9.5 Karakterin Yukarı Aşağı Bakması ve Hareket Etmesi
+- 9.6 Adım Sesleri
+- 9.7 Yankı Oluşturma
+- 9.8 Doppler Effect
+- 9.9 Mesafeye Göre Ses İşlemleri
+- 9.10 Music Zone
+- 9.11 AudioMixer
+- 9.12 Ses Kontrol 1
+- 9.13 Ses Kontrol 2
+- 9.14 Proje Gönderimi
+
+
+# Hafta 10 Eğitim Konuları:
+- 10.1 Artırılmış Gerçeklik
+- 10.2 AR Android Ayarları
+- 10.3 AR iOS Ayarları
+- 10.4 Zemin Tespiti
+- 10.5 iOS İçin Çıktı Alma
+- 10.6 Placement Indicator Oluşturma
+- 10.7 Script ile Halkayı Gösterme
+- 10.8 Iphone Telefonda Deneyelim
+- 10.9 Ortama Objenin Eklenmesi
+- 10.10 Faydalı Sayfalar
+- 10.11 Yüz Algılama
+- 10.12 Resim Algılama
+- 10.13 Resim Algılama 2
+- 10.14 Proje Gönderimi
+
+
+# Hafta 11 Eğitim Konuları:
+- 11.1 Photon2
+- 11.2 Uygulama PUN2 Bağlantısı
+- 11.3 Platformun Hazırlanması
+- 11.4 Network Manager 1
+- 11.5 Network Manager 2
+- 11.6 Menu UI 1
+- 11.7 Menu UI 2
+- 11.8 RPC ve PhotonView
+- 11.9 Menu Script 1
+- 11.10 Menu Script 2
+- 11.11 Menu Script 3
+- 11.12 Projenin Denenmesi
+- 11.13 PlayerController 1
+- 11.14 PlayerController 2
+- 11.15 Game Manager
+- 11.16 Spawn Player 1
+- 11.17 Spawn Player 2
+- 11.18 Şapkayı Verme
+- 11.19 Oyunu Kazanma
+- 11.20 Game UI
+- 11.21 UI Kodları
+- 11.22 Projenin Tamamlanması
+- 11.23 Proje Ne Yapabiliriz?
+- 11.24 Proje Gönderimi
+
+
+# Hafta 12 Eğitim Konuları:
+- 12.1 Proje Tanıtım
+- 12.2 Proje Hazırlık
+- 12.3 CameraControl 1
+- 12.4 CameraControl 2
+- 12.5 Yapıları Hazırlama
+- 12.6 Yolu Hazırlama
+- 12.7 UI
+- 12.8 Mouse Pozisyonunu Tespit Etme
+- 12.9 Yapı Yerleştirme 1
+- 12.10 Yapı Yerleştirme 2
+- 12.11 Yapı Yerleştirme 3
+- 12.12 Yapı Yerleştirme 4
+- 12.13 Uygulamayı Tamamlama
+- 12.14 Projede Neler Yapabiliriz?
+- 12.15 Proje Gönderimi
+
+
+
+
+
+
+
+
 
 
 
