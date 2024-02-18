@@ -1,4 +1,4 @@
-# Uretken_Akademi_Unity_Bootcamp
+# Üretken Akademi & Erzurum Büyükşehir Belediyesi Mobil Oyun Programlama Eğitim Programı
 12 haftalık bootcamp sürecimde Unity üzerinde derinlemesine öğrenerek her hafta adına bir proje sundum.
 
 # Hafta 1 Eğitim Konuları:
