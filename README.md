@@ -90,6 +90,7 @@
 - 4.15 Yönleri Güncellemek
 - 4.16 Ateş Etme
 - 4.17 Proje
+- ![4-foto](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/a6f9f007-962a-4717-94fa-93d545313241)
 - Game Video:https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/8ebdcea9-aa18-4b92-9f34-92f25f8a0f0a
 
 
