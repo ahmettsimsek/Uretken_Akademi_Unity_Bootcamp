@@ -69,7 +69,7 @@
 - 3.13 Trail Renderer
 - 3.14 Mesh Render
 - 3.15 Proje
-(https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/953684f5-479b-4d2d-bc14-b729224a9e16)
+- Game Video : (https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/953684f5-479b-4d2d-bc14-b729224a9e16)
 
 
 # Hafta 4 Eğitim Konuları:
@@ -90,6 +90,7 @@
 - 4.15 Yönleri Güncellemek
 - 4.16 Ateş Etme
 - 4.17 Proje
+- Game Video:https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/8ebdcea9-aa18-4b92-9f34-92f25f8a0f0a
 
 
 # Hafta 5 Eğitim Konuları:
