@@ -69,7 +69,9 @@
 - 3.13 Trail Renderer
 - 3.14 Mesh Render
 - 3.15 Proje
-- [<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+- [![Now in Android: 55]
+  (https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+  (https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")  
   https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/84e1699e-ec2e-4c77-b073-b279bed86139
 
 
