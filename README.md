@@ -69,10 +69,7 @@
 - 3.13 Trail Renderer
 - 3.14 Mesh Render
 - 3.15 Proje
-- [![Now in Android: 55]
-  (https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-  (https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")  
-  https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/84e1699e-ec2e-4c77-b073-b279bed86139
+- https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/issues/1#issue-2141251055
 
 
 # Hafta 4 Eğitim Konuları:
