@@ -69,6 +69,7 @@
 - 3.13 Trail Renderer
 - 3.14 Mesh Render
 - 3.15 Proje
+- ![3-foto](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/4137e277-f246-4912-bb41-0e8631765d44)
 - Game Video : (https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/953684f5-479b-4d2d-bc14-b729224a9e16)
 
 
