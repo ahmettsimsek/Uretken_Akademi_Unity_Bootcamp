@@ -116,6 +116,8 @@
 - 5.18 Ahşap Sandık -8
 - 5.19 Ahşap Sandık -9
 - 5.20 Proje Gönderimi
+- ![5-foto](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/61959022-ccfb-4b90-b2bc-b312a9191d19)
+
 
 
 # Hafta 6 Eğitim Konuları:
@@ -137,6 +139,9 @@
 - 6.16 Panel
 - 6.17 Scripts
 - 6.18 Proje Gönderimi
+- ![6-foto1](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/3bc2fb34-e111-417b-b16c-f7913c5af56c)
+- ![6-foto2](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/8a53a7e3-7e64-44ef-aa06-3934f1803ad8)
+
 
 
 # Hafta 7 Eğitim Konuları:
@@ -157,6 +162,10 @@
 - 7.15 DeleteKey
 - 7.16 DeleteAll
 - 7.17 Proje Gönderimi
+- ![7_foto](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/fd727f90-cbcf-4f56-8075-fd76a2daf408)
+
+
+
 
 
 # Hafta 8 Eğitim Konuları:
@@ -175,6 +184,8 @@
 - 8.12 Oyunu Yayınlama
 - 8.13 itch.io
 - 8.14 Proje Gönderimi
+- ![8-Foto](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/e7abd2a7-c67a-45ae-b1e0-d607698b87d6)
+
 
 
 # Hafta 9 Eğitim Konuları:
@@ -254,6 +265,8 @@
 - 12.13 Uygulamayı Tamamlama
 - 12.14 Projede Neler Yapabiliriz?
 - 12.15 Proje Gönderimi
+- ![12-foto](https://github.com/ahmettsimsek/Uretken_Akademi_Unity_Bootcamp/assets/124433579/d509b939-a293-4ceb-b5e4-3e7f0ea190e8)
+
 
 
 
